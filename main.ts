@@ -10,7 +10,7 @@ input.onButtonPressed(Button.A, function () {
         basic.showIcon(IconNames.SmallHeart)
         soundExpression.hello.play()
     } else if (i == 3) {
-        basic.showIcon(IconNames.Sad)
+        basic.showIcon(IconNames.Silly)
         soundExpression.twinkle.play()
     } else if (i == 4) {
         basic.showIcon(IconNames.Giraffe)
